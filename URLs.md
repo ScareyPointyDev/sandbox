@@ -202,6 +202,7 @@
 * [ROOT Data Analysis Framework](https://root.cern/)
 * [Degate](http://www.degate.org/)
 * [Caneda](http://caneda.org/)
+* [Falstad](https://www.falstad.com/circuit/)
 
 ### NFC, RFID, Smartcards
 
