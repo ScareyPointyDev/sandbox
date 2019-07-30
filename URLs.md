@@ -201,6 +201,7 @@
 * [GDL - GNU Data Language](http://gnudatalanguage.sourceforge.net/)
 * [ROOT Data Analysis Framework](https://root.cern/)
 * [Degate](http://www.degate.org/)
+* [Caneda](http://caneda.org/)
 
 ### NFC, RFID, Smartcards
 
